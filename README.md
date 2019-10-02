@@ -4,6 +4,8 @@ This repository is on two subjects:
 - Handling files 
 - Error handling/ Expectations
 
-Set up 
-
-Capturing 
+### Things covered:
+- try/except/finally
+- open(file, option) / close()
+- with 
+- readlines()
